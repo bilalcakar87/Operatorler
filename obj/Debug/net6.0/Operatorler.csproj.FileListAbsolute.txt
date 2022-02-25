@@ -1,0 +1,15 @@
+D:\PatikaDev\Pratikler\Operatorler\bin\Debug\net6.0\Operatorler.exe
+D:\PatikaDev\Pratikler\Operatorler\bin\Debug\net6.0\Operatorler.deps.json
+D:\PatikaDev\Pratikler\Operatorler\bin\Debug\net6.0\Operatorler.runtimeconfig.json
+D:\PatikaDev\Pratikler\Operatorler\bin\Debug\net6.0\Operatorler.dll
+D:\PatikaDev\Pratikler\Operatorler\bin\Debug\net6.0\Operatorler.pdb
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\Operatorler.csproj.AssemblyReference.cache
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\Operatorler.AssemblyInfoInputs.cache
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\Operatorler.AssemblyInfo.cs
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\Operatorler.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\Operatorler.dll
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\refint\Operatorler.dll
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\Operatorler.pdb
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\Operatorler.genruntimeconfig.cache
+D:\PatikaDev\Pratikler\Operatorler\obj\Debug\net6.0\ref\Operatorler.dll
